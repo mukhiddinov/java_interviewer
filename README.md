@@ -69,5 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, bug reports, or questions, please [open an issue](https://github.com/your-username/InterviewBot/issues).
+For support, bug reports, or questions, please [open an issue](https://github.com/mukhiddinov/InterviewBot/issues).
 
+## Contact
+[Telegram](https://t.me/khusniddin_mukhiddinov)
