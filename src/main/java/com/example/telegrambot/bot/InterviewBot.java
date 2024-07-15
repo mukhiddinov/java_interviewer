@@ -28,12 +28,12 @@ public class InterviewBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "jvinterviewer_bot."; // Replace with your bot's username
+        return "YOUR_BOT_USERNAME"; // Replace with your bot's username
     }
 
     @Override
     public String getBotToken() {
-        return "6860174511:AAGCPt_3cXxYHH3gZtv-SxlRldoOpfR03eM"; // Replace with your bot's token
+        return "YOUR_BOT_TOKEN"; // Replace with your bot's token
     }
 
     private static List<String> QUESTIONS;
